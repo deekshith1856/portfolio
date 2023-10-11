@@ -9,7 +9,7 @@ import {
   ListIcon,
   List,
 } from "@chakra-ui/react";
-import { AiTwotoneStar } from "react-icons/Ai";
+import { AiTwotoneStar } from "react-icons/ai";
 import { Element } from "react-scroll";
 export default function Skills() {
   return (
