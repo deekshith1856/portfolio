@@ -49,7 +49,7 @@ const About = () => {
                 objectFit="cover"
                 rounded={"full"}
                 maxW={{ base: "80%", sm: "200px" }}
-                src="/public/DeekshithPic.png"
+                src="/DeekshithPic.png"
                 alt="Caffe Latte"
               />
             </Box>

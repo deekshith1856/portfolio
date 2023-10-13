@@ -54,7 +54,7 @@ const data = [
   //   websiteLink: "",
   // },
   {
-    imgSrc: "/public/projects/CryptoWatch.png",
+    imgSrc: "/projects/CryptoWatch.png",
     name: "Crypto-Watch",
     description: "Users can track the prices of various crypto currencies",
     publicProject: true,
@@ -88,7 +88,7 @@ const data = [
   //   websiteLink: "",
   // },
   {
-    imgSrc: "/public/projects/WeChat.png",
+    imgSrc: "/projects/WeChat.png",
     name: "WeChat",
     description:
       "A web application through which you can make online chat rooms",

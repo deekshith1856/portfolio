@@ -25,7 +25,7 @@ export default function Hero() {
     setText(texts[index]);
   }, [index]);
   const handleCV = () => {
-    const pdfFilePath = "https://portfolio-c38i/public/resume/resume.pdf";
+    const pdfFilePath = "/public/resume/resume.pdf";
     const pdfUrl = pdfFilePath;
     window.open(pdfUrl, "_blank");
   };

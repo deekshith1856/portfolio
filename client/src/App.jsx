@@ -9,7 +9,7 @@ import Skills from "./components/Skills";
 
 function App() {
   return (
-    <Box>
+    <Box id="app">
       <Header />
       <Hero />
       <About />
